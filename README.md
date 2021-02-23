@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Chevron
 - 🌱 I’m currently learning Machine Learning
-- ⚡ Try to learn deep in Data Science
+- ⚡ Try to learn more in Data Science
 
 <!--
 **baypsil/baypsil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
